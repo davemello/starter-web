@@ -13,3 +13,7 @@ This is about deployment. TO deploy do following
 ## How to contribute
 
 Give stuff in
+
+###COPYRIGHT
+
+2014 GIT Training 
