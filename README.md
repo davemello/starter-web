@@ -12,7 +12,7 @@ This is about deployment. TO deploy do following
 
 ## How to contribute
 
-Give stuff in
+Please fork repo and issue pull request
 
 ###COPYRIGHT
 
