@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work. read me please. Adding a line for rebasing example, then more cahnge form myfeatue
-
+Updating for emergenct fix after stash
 ## Purpose
 
 Sample website with plenty of files for demos. More purpose stiuff
