@@ -16,4 +16,4 @@ Please fork repo and issue pull request
 
 ###COPYRIGHT
 
-2014 GIT Training 
+2014 GIT Training . All rights reserved
